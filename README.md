@@ -9,4 +9,19 @@
    
    tech stack
    - python 3
-   - jupyter notebook 
+   - jupyter notebook
+
+3. placement prediction
+   implementation of linear regression
+
+   features
+   - visualises data using matplotlib
+   - splits data into training and testing sets
+   - scales features for better performance
+   - trains a logistic regression model using scikit-learn
+   - plots decision boundaries to show model behaviour
+
+   tech stack
+   - python 3
+   - jupyter notebook
+   - libraries used = numpy, pandas, matplotlib, scikit-learn, mlxtend 
