@@ -12,7 +12,7 @@
    - jupyter notebook
 
 3. placement prediction
-   implementation of linear regression
+   = implementation of linear regression
 
    features
    - visualises data using matplotlib
