@@ -25,3 +25,22 @@
    - python 3
    - jupyter notebook
    - libraries used = numpy, pandas, matplotlib, scikit-learn, mlxtend 
+
+4. mnist neural net
+   = complete lifecycle of a neural network from training to inference
+
+   features
+   - custom feed forward neural network built using torch.nn
+   - trains on mnist dataset (handwritten digits = 0 to 9)
+   - implements full training loop (forward pass, loss calculation, backpropagation, optimization)
+   - saves and reloads the model
+   - performs inference on unseen data from the test data set
+   - cpu/ gpu auto-detection for flexible training
+
+   tech stack
+   - language = python
+   - deep learning framework = pytorch
+   - dataset = mnist
+   - model type = feedforward (fully connected) neural network
+   - environment = works on cpu/ gpu (cuda if available)
+   - libraries used = torchvision (visualization), numpy (data handling)  
