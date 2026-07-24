@@ -46,7 +46,7 @@
    - libraries used = torchvision (visualization), numpy (data handling)  
 
 4. nlp fundamentals
-   = implementation of core text vectorizattion techniques
+   = implementation of core text vectorization techniques
 
    features
    - demonstrates bag of words and tf-idf representations
