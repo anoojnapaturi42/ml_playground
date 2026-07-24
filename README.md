@@ -11,7 +11,7 @@
    - python 3
    - jupyter notebook
 
-3. placement prediction
+2. placement prediction
    = implementation of linear regression
 
    features
@@ -26,7 +26,7 @@
    - jupyter notebook
    - libraries used = numpy, pandas, matplotlib, scikit-learn, mlxtend 
 
-4. mnist neural net
+3. mnist neural net
    = complete lifecycle of a neural network from training to inference
 
    features
@@ -44,3 +44,16 @@
    - model type = feedforward (fully connected) neural network
    - environment = works on cpu/ gpu (cuda if available)
    - libraries used = torchvision (visualization), numpy (data handling)  
+
+4. nlp fundamentals
+   = implementation of core text vectorizattion techniques
+
+   features
+   - demonstrates bag of words and tf-idf representations
+   - explores tokenization, stemming, and lemmatization concepts
+   - converts raw text into numerical feature vectors
+   - compares frequency-based and importance-weighted text representations
+
+   tech stack
+   - language = python
+   - libraries used = scikit-learn, numpy
