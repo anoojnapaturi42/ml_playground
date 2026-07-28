@@ -53,7 +53,12 @@
    - explores tokenization, stemming, and lemmatization concepts
    - converts raw text into numerical feature vectors
    - compares frequency-based and importance-weighted text representations
+   - implements byte pair encoding (BPE) from scratch
+   - learns subword merges from a text corpus
+   - tokenizes unseen words using learned BPE rules
+   - explores modern subword tokenization used by llms
+   - experiments with pretrained FastText and GPT-2 tokenizers 
 
    tech stack
    - language = python
-   - libraries used = scikit-learn, numpy
+   - libraries used = scikit-learn, numpy, fasttext, transformers 
